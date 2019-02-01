@@ -35,3 +35,17 @@ Por favor, consulte esse repositório para mais informações sobre os itens mos
 O logo do CTF-BR usado como assinatura em todas as nossas comunicações. Gostaríamos que ele fosse instantaneamente reconhecível, então a consistência é importante. Não o edite, altere, distorça, repinte ou reconfigure.
 
 ![](Readme/colorido.png)
+
+
+Por favor, use nosso logo de duas cores na maioria dos casos. Em circunstâncias especiais utilize a marca nominal em preto sólido ou branco e preto. 
+
+![](Readme/black.png)
+
+
+![](Readme/pb.png)
+
+
+Certifique-se de que o logo esteja corretamente espaçado.
+
+![](Readme/grid.png)
+
