@@ -41,7 +41,7 @@
 
 # CTF-BR - Branding
 
-Repositório com todo o material gráfico do projeto CTF-BR
+Repositório com todo o material gráfico do projeto [CTF-BR](https://ctf-br.org)
 ----------------
 
 Por favor, consulte esse repositório para mais informações sobre os itens mostrados a seguir.
