@@ -1,32 +1,5 @@
 # CTF-BR - Branding
 
-
-<!-- Social media buttons -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/ctfbr
-[2]: https://www.facebook.com/capturetheflagbr
-
-
-
 Repositório com todo o material gráfico do projeto CTF-BR
 ----------------
 
@@ -54,4 +27,29 @@ Certifique-se de que o logo esteja corretamente espaçado.
 ``` r
 Qualquer dúvida só entrar em contato comigo @TheZakMan
 ```
+
+<!-- Social media buttons -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/ctfbr
+[2]: https://www.facebook.com/capturetheflagbr
+
 
