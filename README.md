@@ -30,7 +30,7 @@
 Repositório com todo o material gráfico do projeto CTF-BR
 ----------------
 
-Por favor, consulte esta pasta para obter mais informações sobre os itens mostrados a seguir.
+Por favor, consulte esse repositório para mais informações sobre os itens mostrados a seguir.
 
 O logo do CTF-BR usado como assinatura em todas as nossas comunicações. Gostaríamos que ele fosse instantaneamente reconhecível, então a consistência é importante. Não o edite, altere, distorça, repinte ou reconfigure.
 
