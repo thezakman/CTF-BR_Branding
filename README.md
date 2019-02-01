@@ -1,3 +1,44 @@
+![Version 0.04](https://img.shields.io/badge/Version-0.01-green.svg)
+[![Twitter](https://img.shields.io/badge/Twitter-%40TheZakMan-blue.svg)](https://www.twitter.com/thezakman)
+
+<!-- 
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.                                                                                             .
+.                                                           .-:/++oooo++/::-..                .
+.                                      .....             ./osssssssssssssssssso+/-.           .
+.                                     /ssssssso++/::-. -+sssssssssssssssssssssssssss+/. -:.   .
+.  .//////////////////////////////.  +sssssssssssooo:.+sssssssssssssssssssssssssssssss .sss   .
+.  .dddddddddddddddddddddddddddddh. +ssssssssssssoo:.ossssssssssssssssssssssssssss-./+.:ss+   .
+.  .dddh/////////////////////////. /ssssssssssssoo/-osssssssssssssssssssssssssssss+/o:://+:   .
+.  .dddh. ..                      .ssssssssssssso+-ssssssssssssssssssssssssssssssssss .sso.   .
+.  .dddh. :dho:.                  ossssssssssssso:ssssssssssssssssssssssssssssssssss/ :sso    .
+.  .dddh.  .:ohdh+-              -ssssssssssssssssssssssssssssssssssssssssssssssssss. oss:    .
+.  .dddh.    .:oNNy              +ssssssssssssssssssssssssssssssssssssssssssssssssss .sss.    .
+.  .dddh.  +ydhs:..             .ssssssssssssssssssssssssssssssssssssssssssssssssss/ -sso     .
+.  .dddh.  o/..     .........   -sssssssssssssssssssssssssoo+++++ooossssssssssso.-+:./ss:     .
+.  .dddh.          -yyyyyyyy/   :sssssssssssssssssssso+:....     ......-/+oossss+o+-:+++.     .
+.  .dddh.                       ..:+oosssssssssso+/-..                     ..-:/+o: -ss+.     .
+.  .dddh.                           ..--:::::-... ..............   ............. .  +ss/      .
+.  .dddh.                          -+oosssssoo/. -ossssssssssss+  osssssssssssso.   sss.      .
+.  .dddh.                        .+yyyyyyyyyyyy+ +yyyyhhhhhhhhh: -hhhhhhhhyyyyyo   -sss       .
+.  .dddh.                        /hhyys///syyyy/ //++hhhhho+++/  ohhhhs+++++++/.   +ss+       .
+.  .dddh.                        yhhhh:  .yhhhh.    .hhhhh.     .hhhhh.            sss-       .
+.  .dddh.                       :hhhhy   .ssss+     ohhhh+      +hhhho            -sss.       .
+.  .dddh.                       shhhh/             .hhhhh.     .hhhhho/////-      +sso        .
+.  .dddh.                      -hhhhh.             /hhhhs      /hhhhhhhhhhh+      sss:        .
+.  .dddh.                      ohhhh+             .yhhhh:      yhhhhyyyyyyy.     -sss.        .
+.  .dddh.                     .hhhhh.   .....     :hhhhy      :hhhhy..----.....  +sso         .
+.  .dddh                      +hhhhs   +hhhh/     shhhh/      shhhh/ /mhhmmhhdd  sss/         .
+.  .dddh/::::::::::::::::::- .yhhhh:...hhhhh.    -hhhhy.     .hhhhh. d+:::::::h -sss.         .
+.  .dddddddddddddddddddddddo :hhhhhyyyhhhhh+     ohhhh+      ohhhh+ -N:::BR::y/ /sss          .
+.  .:::::::::::::::::::::::. .yhhhhhhhhhhh+.    .hhhhh.     .hhhhh. sy:::::::N. oss+          .
+.                             .:++++++++:.      .+o++/      .++++/  :yyyhyyyy:  +ss.          .
+.                                                                                             .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	  
+-->
+
 # CTF-BR - Branding
 
 Repositório com todo o material gráfico do projeto CTF-BR
@@ -27,29 +68,5 @@ Certifique-se de que o logo esteja corretamente espaçado.
 ``` r
 Qualquer dúvida só entrar em contato comigo @TheZakMan
 ```
-
-<!-- Social media buttons -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/ctfbr
-[2]: https://www.facebook.com/capturetheflagbr
 
 
