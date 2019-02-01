@@ -49,3 +49,8 @@ Certifique-se de que o logo esteja corretamente espaçado.
 
 ![](Readme/grid.png)
 
+
+
+
+Qualquer dúvida só entrar em contato comigo @TheZakMan ;)
+--------------------
