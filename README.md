@@ -69,4 +69,6 @@ Certifique-se de que o logo esteja corretamente espaçado.
 Qualquer dúvida só entrar em contato comigo @TheZakMan
 ```
 
+PS: se possivel lembrem de dar créditos ao amigo aqui que fez tudo isso :)
+
 
