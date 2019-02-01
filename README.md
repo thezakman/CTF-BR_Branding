@@ -52,7 +52,6 @@ Certifique-se de que o logo esteja corretamente espaçado.
 
 
 ``` r
-Qualquer dúvida só entrar em contato comigo
+Qualquer dúvida só entrar em contato comigo @TheZakMan
 ```
-[@TheZakMan](https://web.telegram.org/#/im?p=@TheZakMan)
 
